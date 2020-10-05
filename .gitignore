@@ -1,0 +1,9 @@
+*.mp4
+*.avi
+*.wmv
+*.vscode
+*.ipynb_*
+__pycache__*
+raw_videos
+*.csv
+output
